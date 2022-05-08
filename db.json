@@ -1,0 +1,29 @@
+{
+  "perfil": [
+    {
+      "nombre": "María Nuria Vallejos",
+      "email": "marinuv@gmail.com",
+      "id": "6c45a6f5-0d6b-4de3-a993-fbb99678542a"
+    },
+    {
+      "nombre": "Angeles Daina Moreira",
+      "email": "angelesdaiana17@gmail.com",
+      "id": "76246663-ace3-4983-9bc7-4a4e06d7305f"
+    },
+    {
+      "nombre": "Christian Fernández",
+      "email": "chris@gmail.com",
+      "id": "640467c8-7fc1-4750-bff7-52bb28e57492"
+    },
+    {
+      "nombre": "Albi",
+      "email": "albita@gmail.com",
+      "id": "f097b914-1770-409f-ba3d-b5f5fb3d289a"
+    },
+    {
+      "nombre": "Alexander Ariel Moreira",
+      "email": "alarmoreira@gmail.com",
+      "id": "30ea0b26-11c2-4ed9-978f-70bbeeeb6785"
+    }
+  ]
+}
